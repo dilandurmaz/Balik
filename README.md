@@ -1,0 +1,2 @@
+# Balik
+Homework for python 
