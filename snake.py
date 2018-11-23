@@ -74,4 +74,3 @@ while key != 27:                                                   # While Esc k
     
 curses.endwin()
 print("\nScore - " + str(score))
-print("http://bitemelater.in\n")
